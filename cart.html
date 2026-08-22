@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Cart - SHOP.CO</title>
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+    />
+
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+    <div id="header"></div>
+
+    <main>
+      <section class="cart-breadcrumb">
+        <div class="container">
+          <a href="index.html">Home</a>
+          <i class="bi bi-chevron-right"></i>
+          <span>Cart</span>
+        </div>
+      </section>
+
+      <section class="cart-section">
+        <div class="container">
+          <h1 class="cart-title">YOUR CART</h1>
+
+          <div class="row g-4">
+            <div class="col-12 col-lg-7">
+              <div class="cart-items" id="cart-items"></div>
+
+              <div class="empty-cart d-none" id="empty-cart">
+                <i class="bi bi-cart-x"></i>
+
+                <h2>Your cart is empty</h2>
+
+                <p>Looks like you haven't added anything to your cart yet.</p>
+
+                <a href="category.html" class="btn btn-dark">
+                  Continue Shopping
+                </a>
+              </div>
+            </div>
+
+            <div class="col-12 col-lg-5">
+              <div class="order-summary">
+                <h2>Order Summary</h2>
+
+                <div class="summary-row">
+                  <span>Subtotal</span>
+                  <strong id="cart-subtotal">$0</strong>
+                </div>
+
+                <div class="summary-row">
+                  <span>Discount (-20%)</span>
+                  <strong class="discount" id="cart-discount">-$0</strong>
+                </div>
+
+                <div class="summary-row">
+                  <span>Delivery Fee</span>
+                  <strong id="delivery-fee">$15</strong>
+                </div>
+
+                <hr />
+
+                <div class="summary-total">
+                  <span>Total</span>
+                  <strong id="cart-total">$0</strong>
+                </div>
+
+                <div class="promo-code">
+                  <div class="promo-input">
+                    <i class="bi bi-tag"></i>
+
+                    <input
+                      type="text"
+                      id="promo-code"
+                      placeholder="Add promo code"
+                      aria-label="Promo code"
+                    />
+                  </div>
+
+                  <button type="button" class="btn btn-dark" id="apply-promo">
+                    Apply
+                  </button>
+                </div>
+
+                <small id="promo-message"></small>
+
+                <button
+                  type="button"
+                  class="btn btn-dark checkout-button"
+                  id="checkout-button"
+                  data-bs-toggle="modal"
+                  data-bs-target="#checkoutModal"
+                >
+                  Go to Checkout
+                  <i class="bi bi-arrow-right"></i>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <div id="footer"></div>
+
+    <div
+      class="modal fade"
+      id="checkoutModal"
+      tabindex="-1"
+      aria-labelledby="checkoutModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="checkoutModalLabel">SHOP.CO</h5>
+
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+
+          <div class="modal-body">Checkout page coming soon!</div>
+
+          <div class="modal-footer">
+            <button type="button" class="btn btn-dark" data-bs-dismiss="modal">
+              OK
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="js/main.js"></script>
+    <script src="js/cart.js"></script>
+  </body>
+</html>

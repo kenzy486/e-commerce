@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "graphic-blue-tshirt",
+    "name": "Graphic Blue T-Shirt",
+    "category": "T-shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 120,
+    "originalPrice": 150,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 451,
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#315B88"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic1.jpg"],
+    "description": "A casual t-shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 13
+  },
+  {
+    "id": "black-graphic-tshirt",
+    "name": "Black Graphic T-Shirt",
+    "category": "T-shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 110,
+    "originalPrice": 140,
+    "discount": 21,
+    "rating": 4.3,
+    "reviewCount": 286,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#111111"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic2.jpg"],
+    "description": "A casual t-shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 16
+  },
+  {
+    "id": "burgundy-graphic-tshirt",
+    "name": "Burgundy Graphic T-Shirt",
+    "category": "T-shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 125,
+    "originalPrice": 160,
+    "discount": 22,
+    "rating": 4.6,
+    "reviewCount": 312,
+    "colors": [
+      {
+        "name": "Burgundy",
+        "hex": "#641C2A"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic3.jpg"],
+    "description": "A casual t-shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 19
+  },
+  {
+    "id": "blue-print-tshirt",
+    "name": "Blue Print T-Shirt",
+    "category": "T-shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 115,
+    "originalPrice": 145,
+    "discount": 21,
+    "rating": 4.4,
+    "reviewCount": 198,
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#47749A"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic4.jpg"],
+    "description": "A casual t-shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 22
+  },
+  {
+    "id": "dark-graphic-tshirt",
+    "name": "Dark Graphic T-Shirt",
+    "category": "T-shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 130,
+    "originalPrice": 160,
+    "discount": 19,
+    "rating": 4.7,
+    "reviewCount": 367,
+    "colors": [
+      {
+        "name": "Charcoal",
+        "hex": "#333333"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic5.jpg"],
+    "description": "A casual t-shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 25
+  },
+  {
+    "id": "black-print-tshirt",
+    "name": "Black Print T-Shirt",
+    "category": "T-shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 120,
+    "originalPrice": 150,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 241,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1A1A1A"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic6.jpg"],
+    "description": "A casual t-shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 28
+  },
+  {
+    "id": "white-blue-print-tshirt",
+    "name": "White Blue Print T-Shirt",
+    "category": "T-shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 115,
+    "originalPrice": 140,
+    "discount": 18,
+    "rating": 4.2,
+    "reviewCount": 176,
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#F5F5F5"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic7.jpg"],
+    "description": "A casual t-shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 31
+  },
+  {
+    "id": "black-red-graphic-tshirt",
+    "name": "Black Red Graphic T-Shirt",
+    "category": "T-shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 125,
+    "originalPrice": 155,
+    "discount": 19,
+    "rating": 4.6,
+    "reviewCount": 289,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#151515"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic8.jpg"],
+    "description": "A casual t-shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 34
+  },
+  {
+    "id": "blue-text-tshirt",
+    "name": "Blue Text T-Shirt",
+    "category": "T-shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 110,
+    "originalPrice": 135,
+    "discount": 19,
+    "rating": 4.3,
+    "reviewCount": 154,
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#426D8D"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic9.jpg"],
+    "description": "A casual t-shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 37
+  },
+  {
+    "id": "cream-graphic-tshirt",
+    "name": "Cream Graphic T-Shirt",
+    "category": "T-shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 120,
+    "originalPrice": 150,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 203,
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#E7DFCA"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic10.jpg"],
+    "description": "A casual t-shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 40
+  },
+  {
+    "id": "burgundy-hoodie",
+    "name": "Burgundy Hoodie",
+    "category": "Hoodie",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 220,
+    "originalPrice": 280,
+    "discount": 21,
+    "rating": 4.6,
+    "reviewCount": 341,
+    "colors": [
+      {
+        "name": "Burgundy",
+        "hex": "#6A1E2B"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic11.jpg"],
+    "description": "A casual hoodie designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 43
+  },
+  {
+    "id": "green-hoodie",
+    "name": "Green Hoodie",
+    "category": "Hoodie",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 230,
+    "originalPrice": 290,
+    "discount": 21,
+    "rating": 4.5,
+    "reviewCount": 276,
+    "colors": [
+      {
+        "name": "Green",
+        "hex": "#174D35"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic12.jpg"],
+    "description": "A casual hoodie designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 11
+  },
+  {
+    "id": "burgundy-zip-hoodie",
+    "name": "Burgundy Zip Hoodie",
+    "category": "Hoodie",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 240,
+    "originalPrice": 300,
+    "discount": 20,
+    "rating": 4.4,
+    "reviewCount": 198,
+    "colors": [
+      {
+        "name": "Burgundy",
+        "hex": "#7A2638"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic13.jpg"],
+    "description": "A casual hoodie designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 14
+  },
+  {
+    "id": "blue-hoodie",
+    "name": "Light Blue Hoodie",
+    "category": "Hoodie",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 225,
+    "originalPrice": 280,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 221,
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#AFC9E1"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic14.jpg"],
+    "description": "A casual hoodie designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 17
+  },
+  {
+    "id": "white-print-hoodie",
+    "name": "White Graphic Hoodie",
+    "category": "Hoodie",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 235,
+    "originalPrice": 295,
+    "discount": 20,
+    "rating": 4.7,
+    "reviewCount": 302,
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#F4F1E8"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic15.jpg"],
+    "description": "A casual hoodie designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 20
+  },
+  {
+    "id": "cream-graphic-hoodie",
+    "name": "Cream Graphic Hoodie",
+    "category": "Hoodie",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 240,
+    "originalPrice": 300,
+    "discount": 20,
+    "rating": 4.6,
+    "reviewCount": 248,
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#E9E0CC"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic16.jpg"],
+    "description": "A casual hoodie designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 23
+  },
+  {
+    "id": "blue-zip-hoodie",
+    "name": "Blue Zip Hoodie",
+    "category": "Hoodie",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 220,
+    "originalPrice": 275,
+    "discount": 20,
+    "rating": 4.3,
+    "reviewCount": 165,
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#263D5C"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic17.jpg"],
+    "description": "A casual hoodie designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 26
+  },
+  {
+    "id": "grey-hoodie",
+    "name": "Grey Printed Hoodie",
+    "category": "Hoodie",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 230,
+    "originalPrice": 285,
+    "discount": 19,
+    "rating": 4.4,
+    "reviewCount": 187,
+    "colors": [
+      {
+        "name": "Grey",
+        "hex": "#D8D8D8"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic18.jpg"],
+    "description": "A casual hoodie designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 29
+  },
+  {
+    "id": "dark-green-hoodie",
+    "name": "Dark Green Hoodie",
+    "category": "Hoodie",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 245,
+    "originalPrice": 305,
+    "discount": 20,
+    "rating": 4.8,
+    "reviewCount": 356,
+    "colors": [
+      {
+        "name": "Green",
+        "hex": "#1D382B"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic19.jpg"],
+    "description": "A casual hoodie designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 32
+  },
+  {
+    "id": "cream-hoodie",
+    "name": "Cream Hoodie",
+    "category": "Hoodie",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 235,
+    "originalPrice": 295,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 213,
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#E8DDC8"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic20.jpg"],
+    "description": "A casual hoodie designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 35
+  },
+  {
+    "id": "navy-hoodie",
+    "name": "Navy Hoodie",
+    "category": "Hoodie",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 225,
+    "originalPrice": 280,
+    "discount": 20,
+    "rating": 4.4,
+    "reviewCount": 194,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1E2638"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic21.jpg"],
+    "description": "A casual hoodie designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 38
+  },
+  {
+    "id": "dark-blue-jeans",
+    "name": "Dark Blue Jeans",
+    "category": "Jeans",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 240,
+    "originalPrice": 300,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 451,
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#2C4258"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic22.jpg"],
+    "description": "A casual jean designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 41
+  },
+  {
+    "id": "burgundy-trousers",
+    "name": "Burgundy Straight Trousers",
+    "category": "Jeans",
+    "style": "Formal",
+    "gender": "Men",
+    "price": 260,
+    "originalPrice": 320,
+    "discount": 19,
+    "rating": 4.3,
+    "reviewCount": 176,
+    "colors": [
+      {
+        "name": "Burgundy",
+        "hex": "#542735"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic23.jpg"],
+    "description": "A formal jean designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 44
+  },
+  {
+    "id": "green-trousers",
+    "name": "Green Wide Trousers",
+    "category": "Jeans",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 250,
+    "originalPrice": 310,
+    "discount": 19,
+    "rating": 4.4,
+    "reviewCount": 203,
+    "colors": [
+      {
+        "name": "Green",
+        "hex": "#91A28B"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic24.jpg"],
+    "description": "A casual jean designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 12
+  },
+  {
+    "id": "brown-trousers",
+    "name": "Brown Straight Trousers",
+    "category": "Jeans",
+    "style": "Formal",
+    "gender": "Men",
+    "price": 270,
+    "originalPrice": 340,
+    "discount": 21,
+    "rating": 4.5,
+    "reviewCount": 218,
+    "colors": [
+      {
+        "name": "Brown",
+        "hex": "#654C3B"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic25.jpg"],
+    "description": "A formal jean designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 15
+  },
+  {
+    "id": "light-blue-jeans",
+    "name": "Light Blue Jeans",
+    "category": "Jeans",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 230,
+    "originalPrice": 290,
+    "discount": 21,
+    "rating": 4.6,
+    "reviewCount": 387,
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#8EAFC8"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic26.jpg"],
+    "description": "A casual jean designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 18
+  },
+  {
+    "id": "black-jeans",
+    "name": "Black Straight Jeans",
+    "category": "Jeans",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 245,
+    "originalPrice": 305,
+    "discount": 20,
+    "rating": 4.7,
+    "reviewCount": 425,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1E1E1E"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic27.jpg"],
+    "description": "A casual jean designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 21
+  },
+  {
+    "id": "light-blue-wide-jeans",
+    "name": "Light Blue Wide Jeans",
+    "category": "Jeans",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 250,
+    "originalPrice": 315,
+    "discount": 21,
+    "rating": 4.4,
+    "reviewCount": 239,
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#A8C0D2"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic28.jpg"],
+    "description": "A casual jean designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 24
+  },
+  {
+    "id": "dark-wide-jeans",
+    "name": "Dark Wide Jeans",
+    "category": "Jeans",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 255,
+    "originalPrice": 320,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 291,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#222222"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic29.jpg"],
+    "description": "A casual jean designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 27
+  },
+  {
+    "id": "pale-blue-jeans",
+    "name": "Pale Blue Jeans",
+    "category": "Jeans",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 235,
+    "originalPrice": 295,
+    "discount": 20,
+    "rating": 4.3,
+    "reviewCount": 183,
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#B9C8D4"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic30.jpg"],
+    "description": "A casual jean designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 30
+  },
+  {
+    "id": "faded-blue-jeans",
+    "name": "Faded Blue Jeans",
+    "category": "Jeans",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 240,
+    "originalPrice": 300,
+    "discount": 20,
+    "rating": 4.6,
+    "reviewCount": 318,
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#7895A9"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic31.jpg"],
+    "description": "A casual jean designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 33
+  },
+  {
+    "id": "black-wide-jeans",
+    "name": "Black Wide Jeans",
+    "category": "Jeans",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 255,
+    "originalPrice": 320,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 274,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#181818"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic32.jpg"],
+    "description": "A casual jean designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 36
+  },
+  {
+    "id": "green-shirt",
+    "name": "Dark Green Shirt",
+    "category": "Shirts",
+    "style": "Formal",
+    "gender": "Men",
+    "price": 180,
+    "originalPrice": 225,
+    "discount": 20,
+    "rating": 4.4,
+    "reviewCount": 167,
+    "colors": [
+      {
+        "name": "Green",
+        "hex": "#173F31"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic33.jpg"],
+    "description": "A formal shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 39
+  },
+  {
+    "id": "light-blue-shirt",
+    "name": "Light Blue Shirt",
+    "category": "Shirts",
+    "style": "Formal",
+    "gender": "Men",
+    "price": 175,
+    "originalPrice": 220,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 231,
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#A7C5DA"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic34.jpg"],
+    "description": "A formal shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 42
+  },
+  {
+    "id": "striped-white-shirt",
+    "name": "Striped White Shirt",
+    "category": "Shirts",
+    "style": "Formal",
+    "gender": "Men",
+    "price": 190,
+    "originalPrice": 240,
+    "discount": 21,
+    "rating": 4.6,
+    "reviewCount": 286,
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#F3F1E9"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic35.jpg"],
+    "description": "A formal shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 10
+  },
+  {
+    "id": "cream-shirt",
+    "name": "Cream Casual Shirt",
+    "category": "Shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 185,
+    "originalPrice": 230,
+    "discount": 20,
+    "rating": 4.3,
+    "reviewCount": 143,
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#E5DFD1"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic36.jpg"],
+    "description": "A casual shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 13
+  },
+  {
+    "id": "brown-shirt",
+    "name": "Brown Button Shirt",
+    "category": "Shirts",
+    "style": "Formal",
+    "gender": "Men",
+    "price": 195,
+    "originalPrice": 245,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 219,
+    "colors": [
+      {
+        "name": "Brown",
+        "hex": "#5B4030"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic37.jpg"],
+    "description": "A formal shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 16
+  },
+  {
+    "id": "burgundy-shirt",
+    "name": "Burgundy Polo Shirt",
+    "category": "Shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 170,
+    "originalPrice": 215,
+    "discount": 21,
+    "rating": 4.4,
+    "reviewCount": 192,
+    "colors": [
+      {
+        "name": "Burgundy",
+        "hex": "#642333"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic38.jpg"],
+    "description": "A casual shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 19
+  },
+  {
+    "id": "black-shirt",
+    "name": "Black Button Shirt",
+    "category": "Shirts",
+    "style": "Formal",
+    "gender": "Men",
+    "price": 190,
+    "originalPrice": 240,
+    "discount": 21,
+    "rating": 4.7,
+    "reviewCount": 354,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#202020"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic39.jpg"],
+    "description": "A formal shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 22
+  },
+  {
+    "id": "navy-polo",
+    "name": "Navy Polo Shirt",
+    "category": "Shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 175,
+    "originalPrice": 220,
+    "discount": 20,
+    "rating": 4.6,
+    "reviewCount": 267,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#243C5A"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic40.jpg"],
+    "description": "A casual shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 25
+  },
+  {
+    "id": "black-striped-shirt",
+    "name": "Black Striped Shirt",
+    "category": "Shirts",
+    "style": "Formal",
+    "gender": "Men",
+    "price": 195,
+    "originalPrice": 245,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 241,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#292929"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic41.jpg"],
+    "description": "A formal shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 28
+  },
+  {
+    "id": "brown-casual-shirt",
+    "name": "Brown Casual Shirt",
+    "category": "Shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 185,
+    "originalPrice": 230,
+    "discount": 20,
+    "rating": 4.3,
+    "reviewCount": 151,
+    "colors": [
+      {
+        "name": "Brown",
+        "hex": "#664B3C"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic42.jpg"],
+    "description": "A casual shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 31
+  },
+  {
+    "id": "black-overshirt",
+    "name": "Black Overshirt",
+    "category": "Shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 205,
+    "originalPrice": 255,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 278,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1B1B1B"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic43.jpg"],
+    "description": "A casual shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 34
+  },
+  {
+    "id": "black-pocket-shirt",
+    "name": "Black Pocket Shirt",
+    "category": "Shirts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 195,
+    "originalPrice": 245,
+    "discount": 20,
+    "rating": 4.4,
+    "reviewCount": 198,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#202020"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic44.jpg"],
+    "description": "A casual shirt designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 37
+  },
+  {
+    "id": "black-shorts",
+    "name": "Black Casual Shorts",
+    "category": "Shorts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 150,
+    "originalPrice": 190,
+    "discount": 21,
+    "rating": 4.5,
+    "reviewCount": 211,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#171717"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic45.jpg"],
+    "description": "A casual short designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 40
+  },
+  {
+    "id": "pink-shorts",
+    "name": "Pink Sport Shorts",
+    "category": "Shorts",
+    "style": "Gym",
+    "gender": "Men",
+    "price": 140,
+    "originalPrice": 175,
+    "discount": 20,
+    "rating": 4.3,
+    "reviewCount": 156,
+    "colors": [
+      {
+        "name": "Pink",
+        "hex": "#F3A6B8"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic46.jpg"],
+    "description": "A gym short designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 43
+  },
+  {
+    "id": "black-casual-shorts",
+    "name": "Black Casual Shorts",
+    "category": "Shorts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 145,
+    "originalPrice": 180,
+    "discount": 19,
+    "rating": 4.4,
+    "reviewCount": 182,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#181818"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic47.jpg"],
+    "description": "A casual short designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 11
+  },
+  {
+    "id": "blue-denim-shorts",
+    "name": "Blue Denim Shorts",
+    "category": "Shorts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 160,
+    "originalPrice": 200,
+    "discount": 20,
+    "rating": 4.6,
+    "reviewCount": 265,
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#7E9DB5"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic48.jpg"],
+    "description": "A casual short designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 14
+  },
+  {
+    "id": "cream-shorts",
+    "name": "Cream Relaxed Shorts",
+    "category": "Shorts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 155,
+    "originalPrice": 195,
+    "discount": 21,
+    "rating": 4.5,
+    "reviewCount": 193,
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#E7DCC9"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic49.jpg"],
+    "description": "A casual short designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 17
+  },
+  {
+    "id": "black-sport-shorts",
+    "name": "Black Sport Shorts",
+    "category": "Shorts",
+    "style": "Gym",
+    "gender": "Men",
+    "price": 145,
+    "originalPrice": 180,
+    "discount": 19,
+    "rating": 4.4,
+    "reviewCount": 173,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#171717"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic50.jpg"],
+    "description": "A gym short designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 20
+  },
+  {
+    "id": "black-denim-shorts",
+    "name": "Black Denim Shorts",
+    "category": "Shorts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 165,
+    "originalPrice": 205,
+    "discount": 20,
+    "rating": 4.6,
+    "reviewCount": 244,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#242424"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic51.jpg"],
+    "description": "A casual short designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["top-selling"],
+    "stock": 23
+  },
+  {
+    "id": "light-denim-shorts",
+    "name": "Light Denim Shorts",
+    "category": "Shorts",
+    "style": "Casual",
+    "gender": "Men",
+    "price": 160,
+    "originalPrice": 200,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 218,
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#A8B7C1"
+      }
+    ],
+    "sizes": ["Small", "Medium", "Large", "X-Large"],
+    "images": ["Images/products/Pic52.jpg"],
+    "description": "A casual short designed for everyday wear.",
+    "details": "Comfortable fit with a simple, versatile design.",
+    "tags": ["new"],
+    "stock": 26
+  }
+]
